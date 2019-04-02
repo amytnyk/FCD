@@ -1,0 +1,7 @@
+C:\Users\alexm\source\repos\FCD\FCD\bin\Debug\FCD.exe.config
+C:\Users\alexm\source\repos\FCD\FCD\bin\Debug\FCD.exe
+C:\Users\alexm\source\repos\FCD\FCD\bin\Debug\FCD.pdb
+C:\Users\alexm\source\repos\FCD\FCD\obj\Debug\FCD.csprojAssemblyReference.cache
+C:\Users\alexm\source\repos\FCD\FCD\obj\Debug\FCD.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\FCD\FCD\obj\Debug\FCD.exe
+C:\Users\alexm\source\repos\FCD\FCD\obj\Debug\FCD.pdb

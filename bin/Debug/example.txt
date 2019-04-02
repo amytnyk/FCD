@@ -1,0 +1,7 @@
+isexist = True
+{System}
+name = "Mat"
+name2 = "ASDDDDDDDDDDDD"
+name21 = "Masssssasdasdast"
+{Config}
+substrs = 1
